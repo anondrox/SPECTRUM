@@ -37,11 +37,14 @@ import requests
 # BANNER
 # ---------------------------------------------------------------------------
 
-BANNER = 
-
-
-S P E C T R U M   P R O  •  Premium Domain Tech & CVE Intel\\033[0m
-                     Designed by: anondrox\\033[0m
+BANNER = """
+==========================================================
+                     🕵️  S P E C T R U M
+         TECHNOLOGY INSIGHT • FRAMEWORK PROFILING
+                 CVE INTELLIGENCE SCANNER
+                    ARCHITECT: ANONDROX
+==========================================================
+"""
 
 
 
