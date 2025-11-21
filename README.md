@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="spectrum_icon.png" width="420" alt="SPECTRUM Shield Logo">
+</p>
+
+
 # SPECTRUM
 
 **SPECTRUM** is a Domain Technology & CVE Intelligence Scanner designed to help you quickly understand the tech stack and potential CVE exposure of domains you own.
